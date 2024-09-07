@@ -1,0 +1,42 @@
+{
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#212121",
+		"activityBar.background": "#212121",
+		"activityBar.foreground": "#e7e7e7",
+		"activityBar.inactiveForeground": "#e7e7e799",
+		"activityBarBadge.background": "#606020",
+		"activityBarBadge.foreground": "#e7e7e7",
+		"commandCenter.border": "#e7e7e799",
+		"sash.hoverBorder": "#212121",
+		"statusBar.background": "#080808",
+		"statusBar.foreground": "#e7e7e7",
+		"statusBarItem.hoverBackground": "#212121",
+		"statusBarItem.remoteBackground": "#080808",
+		"statusBarItem.remoteForeground": "#e7e7e7",
+		"titleBar.activeBackground": "#080808",
+		"titleBar.activeForeground": "#e7e7e7",
+		"titleBar.inactiveBackground": "#08080899",
+		"titleBar.inactiveForeground": "#e7e7e799"
+	},
+	"peacock.color": "#080808",
+	"files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "chordblock.png": true,
+    "package-lock.json": true,
+    "yarn.lock": true,
+    "src/lib/components/_old": true,
+    "src/lib/components/_old/ChordCard": true
+  },
+	"hide-files.files": [
+		"chordblock.png",
+		"package-lock.json",
+		"yarn.lock",
+		"src/lib/components/_old",
+		"src/lib/components/_old/ChordCard"
+	]
+}
